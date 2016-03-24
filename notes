@@ -1,0 +1,2 @@
+docker run -a stdin -a stdout -i -t  -p 5555:5000 xavier/helloclj
+docker build -t xavier/helloclj .
